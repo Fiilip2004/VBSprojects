@@ -5,6 +5,7 @@ Docopen = 0
 
 Set oWordBasic = CreateObject("Word.Basic")
 oWordBasic.SendKeys "%{prtsc}"
+'full screen oWordBasic.SendKeys {prtsc}
 oWordBasic.FileQuit
 Set oWordBasic = nothing ' clean up'
 
