@@ -1,0 +1,3 @@
+PastScreen    -- will past copy stuff to doc file
+SaveScreenShotTODoc -- will make all stufs
+ScreenCopy --will copy screen
